@@ -1,0 +1,18 @@
+		 STUDENT REPORT CARD: 08-Dec-2020 
+
+Student: Carolina Truelove 
+
+Grade 		 Subject 
+ 55 		 MathsI 
+ 79 		 MathsII 
+ 72 		 PhysicsI 
+ 57 		 PhysicsII 
+ 42 		 Chemistry 
+ 76 		 Econometrics 
+ 58 		 English_Lit 
+ 59 		 Ancient_Greek 
+ 62 		 PhysEd 
+ 76 		 TOK 
+
+63.60 		 Average
+Average

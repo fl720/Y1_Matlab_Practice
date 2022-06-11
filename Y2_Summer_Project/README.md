@@ -1,6 +1,6 @@
 # Y2_Summer_Project
 
-This file for code using in year 2 undergraduate summer term group project. 
+This file is for codes being used in Year 2 undergraduate summer term group project. 
 =============================================================================================================================================
 
 **PROJECT NAME:** Duocoputer Design 
@@ -30,7 +30,7 @@ This file for code using in year 2 undergraduate summer term group project.
 
 **ABBREVIATION:** ANN
 
-**DISCRIPTION:** 
+**DISCRIPTION:** Auto-filling filter constant in the PID controller within given range. Upgraded from AFCOF, contaning more features as required by group.
 
 ## Auto_Tunning_for_PID_and_Filter_Constant_Device.m
 
@@ -43,6 +43,5 @@ This file for code using in year 2 undergraduate summer term group project.
 **DISCRIPTION:** THE CORE OF THE ENTIRE PROJECT. MADE BY STUDENT IN THE GROUP. CONSISTING OF **SIMULATION SYSTEM** AND **CONTROL LAW**. 
 
 ## samplemission.mat
-
 
 **DISCRIPTION:** MADE BY STUDENT IN THE GROUP. TESTING PATH FOR THE **"better_controller.slx"**. AIM TO ASSIST TUNNING THE PARAMETERS IN THE CONTROL LAW.

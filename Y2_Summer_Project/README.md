@@ -36,7 +36,7 @@ This file is for codes being used in Year 2 undergraduate summer term group proj
 
 **ABBREVIATION:** ATFIELD
 
-**DISCRIPTION:** 
+**DISCRIPTION:** Combination of AFCOF, ANN and auto tunning system of Kp, Ki and Kd values at the PID controller. 
 
 ## better_controller.slx
 

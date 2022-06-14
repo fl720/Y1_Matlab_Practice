@@ -26,6 +26,13 @@ This file is for codes being used in Year 2 undergraduate summer term group proj
 
 **DISCRIPTION:** First generation of the script to find filter cut-off frequency for the discrete low pass filter in the control system. 
 
+**FEATURES:** Able to plot the simulated RMS error against filter cut-off frequencies (inputs) at the end at given Kp, Ki, Kd and PID filter constant (N) values.
+
+**PRECAUTIONS:** 
+ - 1, Need to manually press "ctrl + c" to stop current simulation process when the simualtion is crashed/paused. Then, input subsequent number range into the initial values (a). Restart the process by using section break to prevent previous data being cleared from the working space. 
+
+ - 2, Read the checklist and type Y at each requirement to comfirm before running the AFCOF.
+
 ## Auto_Filter_Constant_N_Navigator.m
 
 **ABBREVIATION:** ANN

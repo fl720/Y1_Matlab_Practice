@@ -39,6 +39,13 @@ This file is for codes being used in Year 2 undergraduate summer term group proj
 
 **DISCRIPTION:** Auto-filling filter constant in the PID controller within given range. Upgraded from AFCOF, contaning more features as required by group.
 
+**FEATURES:** Able to plot the simulated RMS error against filter constant (inputs) at the end at given Kp, Ki, Kd and filter cut-off frequency values. It will also give energy consumption in the output data. However, plot of energy consumption against filter constant is not provided. 
+
+**PRECAUTIONS:** 
+ - 1, Need to manually press "ctrl + c" to stop current simulation process when the simualtion is crashed/paused. Then, input subsequent number range into the initial values (a). Restart the process by using section break to prevent previous data being cleared from the working space. 
+
+ - 2, Read the checklist and type Y at each requirement to comfirm before running the ANN.
+
 ## Auto_Tunning_for_PID_and_Filter_Constant_Device.m
 
 **ABBREVIATION:** ATFIELD

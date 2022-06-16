@@ -52,6 +52,16 @@ This file is for codes being used in Year 2 undergraduate summer term group proj
 
 **DISCRIPTION:** Combination of AFCOF, ANN and auto tunning system of Kp, Ki and Kd values at the PID controller. 
 
+**FEATURES:** Final version of the auto tunning script.
+ - 1, No need to mannually press "ctrl + c" when the simulation crashed. The script will escape this perticullar number.
+
+ - 2, A running plots will show a cost function result against the input values. Illustrate the trend of changing the parameters in the range being given. 
+
+**PRECAUTIONS:** 
+ - 1, 
+
+ - 2, 
+
 ## better_controller.slx
 
 **DISCRIPTION:** THE CORE OF THE ENTIRE PROJECT. MADE BY STUDENT IN THE GROUP. CONSISTING OF **SIMULATION SYSTEM** AND **CONTROL LAW**. 

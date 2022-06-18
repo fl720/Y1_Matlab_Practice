@@ -59,8 +59,10 @@ This file is for codes being used in Year 2 undergraduate summer term group proj
 
  - 3, A log book (DRAFT ZONE) is attached at the last section for recording simulation results and running any given values for testing under different conditions (mass, noise constants, different flying paths etc).
 
+ - 4， All parameters can be set in the Parameter Loading Zone (PLZ). 
+
 **PRECAUTIONS:** 
- - 1, 
+ - 1, Read the checklist and type Y at each requirement to comfirm before running the ANN.
 
  - 2, 
 

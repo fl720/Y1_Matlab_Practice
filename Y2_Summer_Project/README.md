@@ -66,7 +66,7 @@ This file is for codes being used in Year 2 undergraduate summer term group proj
 
  - 2, Running time need to be set in the better_controller.slx for different flying modes.
 
- - 3,
+ - 3, Although the script will no longer crash due to smaller interation gap being applied, the script would be "paused" for long time. Just simply press "ctrl + c" scape current number would be fine.
 
 ## better_controller.slx
 

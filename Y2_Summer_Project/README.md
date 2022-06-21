@@ -62,11 +62,14 @@ This file is for codes being used in Year 2 undergraduate summer term group proj
  - 4, All parameters can be set in the Parameter Loading Zone (PLZ). 
 
 **PRECAUTIONS:** 
+
  - 1, Read the checklist and type Y at each requirement to comfirm before running the ANN.
 
  - 2, Running time need to be set in the better_controller.slx for different flying modes.
 
  - 3, Although the script will no longer crash due to smaller interation gap being applied, the script would be "paused" for long time. Just simply press "ctrl + c" scape current number would be fine.
+
+ - 4, Once the program has running, it cannot be stopped/terminated. As try & catch function has been used. Hence, be careful before start the program. 
 
 ## better_controller.slx
 

@@ -57,7 +57,7 @@ This file is for codes being used in Year 2 undergraduate summer term group proj
 
  - 2, A running plots will show a cost function result against the input values. Illustrate the trend of changing the parameters in the range being given. 
 
- - 3, A log book (DRAFT ZONE) is attached at the last section for recording simulation results and running any given values for testing under different conditions (mass, noise constants, different flying paths etc).
+ - 3, A log book (DRAFT ZONE) is attached at the last section for recording simulation results and running any given values for testing under different conditions (mass, noise constants, different flying paths etc). Uncomment the disire parameters and runing DRAFT ZONE section can help to obtain result quickly.
 
  - 4, All parameters can be set in the Parameter Loading Zone (PLZ). 
 

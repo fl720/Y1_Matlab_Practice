@@ -50,9 +50,9 @@ This file is for codes being used in Year 2 undergraduate summer term group proj
 
 **ABBREVIATION:** ATFIELD
 
-**DISCRIPTION:** Combination of AFCOF, ANN and auto tunning system of Kp, Ki and Kd values at the PID controller. 
+**DISCRIPTION:** Combination of AFCOF, ANN and auto tunning system of Kp, Ki and Kd values at the PID controller. **Final version of the auto tunning script.**
 
-**FEATURES:** Final version of the auto tunning script.
+**FEATURES:**
  - 1, No need to mannually press "ctrl + c" when the simulation crashed. The script will escape this perticullar number.
 
  - 2, A running plots will show a cost function result against the input values. Illustrate the trend of changing the parameters in the range being given. 
